@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Securing-Compute-Engine-Applications-and-Resources-using-Chrome-Enterprise-Premium-GSP1033/refs/heads/main/qwiklab_explorers_gsp1033.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Protect-Cloud-Traffic-with-Chrome-Enterprise-Premium-Security-Challenge-Lab-GSP373/refs/heads/main/qwiklab_explorers_gsp373.sh
 
-sudo chmod +x qwiklab_explorers_gsp1033.sh
+sudo chmod +x qwiklab_explorers_gsp373.sh
 
-./qwiklab_explorers_gsp1033.sh
+./qwiklab_explorers_gsp373.sh
 ```
 
 ---
